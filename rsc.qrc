@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/trayIcon.png</file>
+        <file>icon/about-logo.png</file>
+        <file>about.txt</file>
+    </qresource>
+</RCC>
